@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm Neeraj
+# 👋 Hello! I'm Neeraj
 
 ## 🧑‍💻 About Me
 I'm a passionate developer and student at VIPS pursuing a BCA. I have a deep love for **Data Structures and Algorithms (DSA)**, with a growing interest in **web development**. When I'm not buried in code, I'm likely refining my graphic design skills in Photoshop or solving complex problems on LeetCode.
