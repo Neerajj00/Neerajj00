@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Recreating Apple Website**
 
-- 🌱 I’m currently learning **React js , DSA**
+- 🌱 I’m currently learning **React js , DSA , Mongo db, Express js, Node js**
 
 - 💬 Ask me about **Data Structures and Algorithm**
 
