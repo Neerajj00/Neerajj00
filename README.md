@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neeraj-gupta2005&label=Profile%20views&color=0e75b6&style=flat" alt="neeraj-gupta2005" /> </p>
 
-- 🔭 I’m currently working on **Recreating Apple Website**
-
-- 🌱 I’m currently learning **React js , DSA , Mongo db, Express js, Node js**
+- 🌱 I’m currently learning **Dynamic Programming and Nextjs**
 
 - 💬 Ask me about **Data Structures and Algorithm**
 
